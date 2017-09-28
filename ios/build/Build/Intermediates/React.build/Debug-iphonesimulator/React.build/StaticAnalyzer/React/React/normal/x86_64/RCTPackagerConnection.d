@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/DevSupport/RCTPackagerConnection.m \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/../Libraries/WebSocket/RCTWebSocketObserver.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/DevSupport/RCTPackagerConnectionBridgeConfig.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/DevSupport/RCTPackagerConnectionConfig.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h

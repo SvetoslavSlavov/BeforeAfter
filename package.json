@@ -1,5 +1,5 @@
 {
-	"name": "BeforeAfter",
+	"name": "BeforeAndAfter",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
@@ -7,8 +7,13 @@
 		"test": "jest"
 	},
 	"dependencies": {
+		"eslint-config-rallycoding": "^3.2.0",
+		"gl-react-instagramfilters": "^0.2.0",
 		"react": "16.0.0-alpha.12",
-		"react-native": "0.48.3"
+		"react-native": "0.48.3",
+		"react-native-camera": "^0.10.0",
+		"react-native-view-shot": "^2.0.0",
+		"react-navigation": "^1.0.0-beta.11"
 	},
 	"devDependencies": {
 		"babel-jest": "21.0.2",

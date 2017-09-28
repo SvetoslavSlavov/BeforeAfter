@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/Libraries/Image/RCTImageCache.m \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/svetoslavslavov/BeforeAndAfter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/svetoslavslavov/BeforeAndAfter/node_modules/react-native/Libraries/Image/RCTImageUtils.h

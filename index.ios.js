@@ -1,53 +1,25 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
- */
-
 import React, { Component } from 'react';
 import {
+  CameraRoll,
   AppRegistry,
   StyleSheet,
   Text,
-  View
+  Dimensions,
+  View,
+  AsyncStorage
 } from 'react-native';
 
-export default class BeforeAfter extends Component {
-  render() {
-    return (
-      <View style={styles.container}>
-        <Text style={styles.welcome}>
-          Welcome to React Native!
-        </Text>
-        <Text style={styles.instructions}>
-          To get started, edit index.ios.js
-        </Text>
-        <Text style={styles.instructions}>
-          Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
-        </Text>
-      </View>
-    );
-  }
-}
+import Camera from 'react-native-camera';
+import { StackNavigator } from 'react-navigation';
+import CameraScreen from './src/components/CameraScreen';
+import BeforeAndAfter from './src/components/BeforeAndAfter';
+import Photos from './src/components/Photos';
+import SelectedPhoto from './src/components/SelectedPhoto';
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
-});
+const Nav = StackNavigator({
+  Home: { screen: BeforeAndAfter },
+  Photos: { screen: Photos },
+  SelectedPhoto: { screen: SelectedPhoto }
+}, { headerMode: 'none' });
 
-AppRegistry.registerComponent('BeforeAfter', () => BeforeAfter);
+AppRegistry.registerComponent('BeforeAndAfter', () => Nav);

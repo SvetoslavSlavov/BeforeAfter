@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-export default class BeforeAfter extends Component {
+export default class BeforeAndAfter extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('BeforeAfter', () => BeforeAfter);
+AppRegistry.registerComponent('BeforeAndAfter', () => BeforeAndAfter);
